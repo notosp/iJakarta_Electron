@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_next_move_thumbnail</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="85-H-Select-Destination" transform="translate(-760.000000, -349.000000)">
+            <g id="pop_up_more" transform="translate(530.000000, 279.000000)">
+                <g id="item" transform="translate(10.000000, 70.000000)">
+                    <g id="ic_next_move_thumbnail" transform="translate(220.000000, 0.000000)">
+                        <polygon id="Path" points="0 0 20 0 20 20 0 20"></polygon>
+                        <polygon id="Path" fill="#4A4A4A" points="8.35 5 7.175 6.175 10.9916667 10 7.175 13.825 8.35 15 13.35 10"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

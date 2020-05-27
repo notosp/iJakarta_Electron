@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_news</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4-H-Landing-News-Detail-Category" transform="translate(-40.000000, -60.000000)">
+            <g id="left" transform="translate(40.000000, 60.000000)">
+                <g id="data">
+                    <g id="ic_news">
+                        <g id="shape">
+                            <polygon id="Shape" points="0 0 60 0 60 60 0 60"></polygon>
+                            <path d="M30,5 C16.2,5 5,16.2 5,30 C5,43.8 16.2,55 30,55 C43.8,55 55,43.8 55,30 C55,16.2 43.8,5 30,5 Z M27.5,49.825 C17.625,48.6 10,40.2 10,30 C10,28.45 10.2,26.975 10.525,25.525 L22.5,37.5 L22.5,40 C22.5,42.75 24.75,45 27.5,45 L27.5,49.825 Z M44.75,43.475 C44.1,41.45 42.25,40 40,40 L37.5,40 L37.5,32.5 C37.5,31.125 36.375,30 35,30 L20,30 L20,25 L25,25 C26.375,25 27.5,23.875 27.5,22.5 L27.5,17.5 L32.5,17.5 C35.25,17.5 37.5,15.25 37.5,12.5 L37.5,11.475 C44.825,14.45 50,21.625 50,30 C50,35.2 48,39.925 44.75,43.475 Z" id="Shape" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

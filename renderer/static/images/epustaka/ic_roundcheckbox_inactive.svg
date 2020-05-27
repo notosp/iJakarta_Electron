@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_roundcheckbox_inactive</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="35-H-Own-Pustaka-Add-Member" transform="translate(-627.000000, -301.000000)" stroke="#D8D8D8">
+            <g id="popup_add_user" transform="translate(141.000000, 60.000000)">
+                <g id="content" transform="translate(0.000000, 98.000000)">
+                    <g id="pilih" transform="translate(485.000000, 142.000000)">
+                        <g id="ic_roundcheckbox_inactive" transform="translate(1.000000, 1.000000)">
+                            <rect id="oval" x="0.5" y="0.5" width="13" height="13" rx="6.5"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

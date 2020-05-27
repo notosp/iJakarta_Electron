@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_empty_review</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="27-H-Detail-Review-Empty" transform="translate(-498.000000, -384.000000)">
+            <g id="item" transform="translate(40.000000, 60.000000)">
+                <g id="Group-2" transform="translate(246.000000, 200.000000)">
+                    <g id="n1">
+                        <g id="ic_empty_review" transform="translate(212.000000, 124.000000)">
+                            <polygon id="Path" points="0 0 72 0 72 72 0 72"></polygon>
+                            <path d="M60,6 L12,6 C8.7,6 6,8.7 6,12 L6,66 L18,54 L60,54 C63.3,54 66,51.3 66,48 L66,12 C66,8.7 63.3,6 60,6 Z M18,42 L18,34.59 L38.64,13.95 C39.24,13.35 40.17,13.35 40.77,13.95 L46.08,19.26 C46.68,19.86 46.68,20.79 46.08,21.39 L25.41,42 L18,42 Z M51,42 L31.5,42 L37.5,36 L51,36 C52.65,36 54,37.35 54,39 C54,40.65 52.65,42 51,42 Z" id="Shape" fill="#9B9B9B" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

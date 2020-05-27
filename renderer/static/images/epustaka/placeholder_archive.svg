@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="119px" viewBox="0 0 84 119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>placeholder_archive</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 59.4121094 0 80 20.4726562 80 115 0 115"></polygon>
+        <filter x="-4.4%" y="-2.2%" width="108.8%" height="106.1%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M60,0 L80,20 L68,20 C63.581722,20 60,16.418278 60,12 L60,0 Z" id="path-4"></path>
+        <filter x="-17.5%" y="-12.5%" width="135.0%" height="135.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4-H-Detail-Publik-Pustaka-Arsip" transform="translate(-272.000000, -283.000000)">
+            <g id="books" transform="translate(274.000000, 256.000000)">
+                <g id="item" transform="translate(0.000000, 28.000000)">
+                    <g id="placeholder_archive">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                            <use fill="#AC0505" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="ic_archive_as_pdf" mask="url(#mask-2)">
+                            <g transform="translate(20.000000, 38.000000)" id="Shape">
+                                <g>
+                                    <path d="M33.3333333,3.33333333 L13.3333333,3.33333333 C11.5,3.33333333 10,4.83333333 10,6.66666667 L10,26.6666667 C10,28.5 11.5,30 13.3333333,30 L33.3333333,30 C35.1666667,30 36.6666667,28.5 36.6666667,26.6666667 L36.6666667,6.66666667 C36.6666667,4.83333333 35.1666667,3.33333333 33.3333333,3.33333333 Z M19.1666667,15.8333333 C19.1666667,17.2166667 18.05,18.3333333 16.6666667,18.3333333 L15,18.3333333 L15,21.6666667 L12.5,21.6666667 L12.5,11.6666667 L16.6666667,11.6666667 C18.05,11.6666667 19.1666667,12.7833333 19.1666667,14.1666667 L19.1666667,15.8333333 Z M27.5,19.1666667 C27.5,20.55 26.3833333,21.6666667 25,21.6666667 L20.8333333,21.6666667 L20.8333333,11.6666667 L25,11.6666667 C26.3833333,11.6666667 27.5,12.7833333 27.5,14.1666667 L27.5,19.1666667 Z M34.1666667,14.1666667 L31.6666667,14.1666667 L31.6666667,15.8333333 L34.1666667,15.8333333 L34.1666667,18.3333333 L31.6666667,18.3333333 L31.6666667,21.6666667 L29.1666667,21.6666667 L29.1666667,11.6666667 L34.1666667,11.6666667 L34.1666667,14.1666667 Z M15,15.8333333 L16.6666667,15.8333333 L16.6666667,14.1666667 L15,14.1666667 L15,15.8333333 Z M6.66666667,10 L3.33333333,10 L3.33333333,33.3333333 C3.33333333,35.1666667 4.83333333,36.6666667 6.66666667,36.6666667 L30,36.6666667 L30,33.3333333 L6.66666667,33.3333333 L6.66666667,10 Z M23.3333333,19.1666667 L25,19.1666667 L25,14.1666667 L23.3333333,14.1666667 L23.3333333,19.1666667 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                    <polygon points="0 0 40 0 40 40 0 40"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <g id="Mask">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-4"></use>
+                            <use fill="#EE3939" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

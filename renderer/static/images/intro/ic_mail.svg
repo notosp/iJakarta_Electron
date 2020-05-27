@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_mail</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Main-Content" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-Input_Email" transform="translate(-201.000000, -302.000000)">
+            <g id="form" transform="translate(191.000000, 160.000000)">
+                <g id="Field-email" transform="translate(0.000000, 142.000000)">
+                    <g id="ic_mail" transform="translate(10.000000, 0.000000)">
+                        <polygon id="Shape" points="0 0 28 0 28 28 0 28"></polygon>
+                        <path d="M23.3333333,4.66666667 L4.66666667,4.66666667 C3.38333333,4.66666667 2.345,5.71666667 2.345,7 L2.33333333,21 C2.33333333,22.2833333 3.38333333,23.3333333 4.66666667,23.3333333 L23.3333333,23.3333333 C24.6166667,23.3333333 25.6666667,22.2833333 25.6666667,21 L25.6666667,7 C25.6666667,5.71666667 24.6166667,4.66666667 23.3333333,4.66666667 Z M23.3333333,21 L4.66666667,21 L4.66666667,9.33333333 L14,15.1666667 L23.3333333,9.33333333 L23.3333333,21 Z M14,12.8333333 L4.66666667,7 L23.3333333,7 L14,12.8333333 Z" id="Shape" fill="#4A4A4A" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

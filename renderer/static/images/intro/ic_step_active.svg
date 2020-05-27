@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_step_active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Main-Content" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5-Register_New_Account" transform="translate(-409.000000, -80.000000)">
+            <g id="pointer" transform="translate(373.000000, 80.000000)">
+                <g id="ic_step_active" transform="translate(36.000000, 0.000000)">
+                    <rect id="oval" stroke="#9B9B9B" x="0.5" y="0.5" width="19" height="19" rx="9.5"></rect>
+                    <path d="M3,10 C3,6.13400675 6.14187327,3 10,3 C13.8659932,3 17,6.14187327 17,10 C17,13.8659932 13.8581267,17 10,17 C6.13400675,17 3,13.8581267 3,10 Z M6,10 C6,12.2046438 7.790861,14 10,14 C12.2046438,14 14,12.209139 14,10 C14,7.79535615 12.209139,6 10,6 C7.79535615,6 6,7.790861 6,10 Z" id="poin_active" fill="#F47F22"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

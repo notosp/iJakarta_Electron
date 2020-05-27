@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="76-H-Audio-Dislike" transform="translate(-173.000000, -362.000000)">
+            <g id="content">
+                <g id="item" transform="translate(40.000000, 60.000000)">
+                    <g id="reaction" transform="translate(21.000000, 302.000000)">
+                        <g id="unlike" transform="translate(112.000000, 0.000000)">
+                            <g id="ic_unlike_activated">
+                                <path d="M0,0 L22,0 L22,21.2903226 L0,21.2903226 L0,0 Z M0,0 L22,0 L22,21.2903226 L0,21.2903226 L0,0 Z" id="Shape"></path>
+                                <path d="M8.43333333,21.4677419 L16.6833333,21.4677419 C17.4441667,21.4677419 18.095,21.0241935 18.37,20.3854839 L21.1383333,14.1314516 C21.2208333,13.9274194 21.2666667,13.7145161 21.2666667,13.483871 L21.2666667,11.7096774 C21.2666667,10.733871 20.4416667,9.93548387 19.4333333,9.93548387 L13.6491667,9.93548387 L14.52,5.88145161 L14.5475,5.59758065 C14.5475,5.23387097 14.3916667,4.89677419 14.1441667,4.65725806 L13.1725,3.72580645 L7.13166667,9.57177419 C6.80166667,9.89112903 6.6,10.3346774 6.6,10.8225806 L6.6,19.6935484 C6.6,20.6693548 7.425,21.4677419 8.43333333,21.4677419 Z M1.1,10.8225806 L4.76666667,10.8225806 L4.76666667,21.4677419 L1.1,21.4677419 L1.1,10.8225806 Z" id="Shape" fill="#F47F22" fill-rule="nonzero" transform="translate(11.183333, 12.596774) scale(-1, -1) translate(-11.183333, -12.596774) "></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

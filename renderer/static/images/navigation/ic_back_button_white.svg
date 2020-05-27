@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="60px" viewBox="0 0 40 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_back_button_white</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4-H-Feeds-Web-Detail" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="topbar">
+                <g id="ic_back_button_white">
+                    <polygon id="Shape" transform="translate(20.500000, 30.500000) scale(1, -1) rotate(90.000000) translate(-20.500000, -30.500000) " points="14.7625 26 20.5 31.562753 26.2375 26 28 27.7125506 20.5 35 13 27.7125506"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

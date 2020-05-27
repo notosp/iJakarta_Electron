@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_activity_empty</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="25-H-Detail-Own-Pustaka-Activity-Empty" transform="translate(-488.000000, -256.000000)">
+            <g id="empty" transform="translate(294.000000, 256.000000)">
+                <g id="ic_activity_empty" transform="translate(194.000000, 0.000000)">
+                    <polygon id="Shape" opacity="0.87" points="0 0 80 0 80 80 0 80"></polygon>
+                    <path d="M40,70 C28.954305,70 20,61.045695 20,50 C20,38.954305 28.954305,30 40,30 C51.045695,30 60,38.954305 60,50 C60,61.045695 51.045695,70 40,70 Z M40,62 C46.627417,62 52,56.627417 52,50 C52,43.372583 46.627417,38 40,38 C33.372583,38 28,43.372583 28,50 C28,56.627417 33.372583,62 40,62 Z" id="Oval" fill="#979797" fill-rule="nonzero"></path>
+                    <circle id="Oval" fill="#9B9B9B" cx="40" cy="17" r="7"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

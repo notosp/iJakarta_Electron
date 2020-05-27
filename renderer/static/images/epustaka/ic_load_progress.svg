@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_load_progress</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="75-H-Upload-Archive-In-Progess" transform="translate(-621.000000, -426.000000)" fill="" fill-rule="nonzero">
+            <g id="pop_up_upload_progress" transform="translate(141.000000, 60.000000)">
+                <g id="item-1" transform="translate(20.000000, 354.000000)">
+                    <g id="load" transform="translate(460.000000, 12.000000)">
+                        <path d="M10,20 C4.4771525,20 0,15.5228475 0,10 C0,4.4771525 4.4771525,0 10,0 C15.5228475,0 20,4.4771525 20,10 C20,15.5228475 15.5228475,20 10,20 Z M10,18.028169 C14.4338353,18.028169 18.028169,14.4338353 18.028169,10 C18.028169,5.56616468 14.4338353,1.97183099 10,1.97183099 C5.56616468,1.97183099 1.97183099,5.56616468 1.97183099,10 C1.97183099,14.4338353 5.56616468,18.028169 10,18.028169 Z" id="ic_load_progress"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

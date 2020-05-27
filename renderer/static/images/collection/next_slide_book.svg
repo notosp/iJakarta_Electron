@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="138px" viewBox="0 0 21 138" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>next_slide_book</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FAB647" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#F47F22" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-H-Landing-Collection-Wide" transform="translate(-1259.000000, -350.000000)">
+            <g id="content" transform="translate(160.000000, 60.000000)">
+                <g id="books" transform="translate(40.000000, 262.000000)">
+                    <g id="next_slide_book" transform="translate(1059.000000, 28.000000)">
+                        <rect id="Rectangle-2" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="138"></rect>
+                        <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" transform="translate(10.500000, 69.500000) scale(-1, -1) rotate(90.000000) translate(-10.500000, -69.500000) " points="4.7625 65 10.5 70.562753 16.2375 65 18 66.7125506 10.5 74 3 66.7125506"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

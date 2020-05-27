@@ -1,0 +1,48 @@
+/* ======background-color========= */
+
+.b-orange {
+    background-color: #F47F22;
+}
+
+/* ========border-color============ */
+
+.b_orange {
+    border: #F47F22
+}
+
+.b_white {
+    border: #fff
+}
+
+.card-intro,
+img {
+    position: relative;
+    text-align: center;
+    font-size: 1.125rem;
+    padding-top: 50px;
+    user-select: none;
+    font-weight: 700;
+    z-index: 2;
+}
+
+.card-intro {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    z-index: 1;
+    background: linear-gradient(#FAB654, #F47F22);
+}
+
+.btn-intro {
+    margin-top: 20px;
+    padding: 10px;
+    width: 200px;
+    border-radius: 15px;
+    border: #ffff;
+    color: #F47F22;
+    text-size-adjust: 10;
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    background-color: #fff;
+}

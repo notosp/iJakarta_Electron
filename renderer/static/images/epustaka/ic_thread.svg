@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="74px" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_thread</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="74" height="74"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7-H-Detail-Publik-Pustaka-Forum" transform="translate(-274.000000, -116.000000)">
+            <g id="Link" transform="translate(274.000000, 116.000000)">
+                <g id="ic_thread">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#D2D1D2" xlink:href="#path-1"></use>
+                    <g id="ic_disscus" mask="url(#mask-2)">
+                        <g transform="translate(12.000000, 12.000000)" id="ic_discuss">
+                            <g transform="translate(5.000000, 3.000000)">
+                                <path d="M5.08474576,39.2897918 L34.7389831,39.2897918 L34.7389831,5.71390799 L5.08474576,5.71390799 L5.08474576,39.2897918 Z M37.2813559,44.3261114 L2.54237288,44.3261114 C1.13898305,44.3261114 0,43.1992349 0,41.8079516 L0,3.19574818 C0,1.80572397 1.13898305,0.677588378 2.54237288,0.677588378 L37.2813559,0.677588378 C38.6860169,0.677588378 39.8237288,1.80572397 39.8237288,3.19574818 L39.8237288,41.8079516 C39.8237288,43.1992349 38.6860169,44.3261114 37.2813559,44.3261114 Z" id="Fill-1" fill="#FFFFFF"></path>
+                                <polygon id="Fill-3" fill="#FFFFFF" points="11.0847458 15.026063 28.7377119 15.026063 28.7377119 11.2488232 11.0847458 11.2488232"></polygon>
+                                <polygon id="Fill-4" fill="#FFFFFF" points="11.0847458 21.2685811 28.7377119 21.2685811 28.7377119 17.4913414 11.0847458 17.4913414"></polygon>
+                                <polygon id="Fill-5" fill="#FFFFFF" points="11.0847458 27.5123584 28.7377119 27.5123584 28.7377119 23.7351186 11.0847458 23.7351186"></polygon>
+                                <polygon id="Fill-6" fill="#FFFFFF" points="11.0847458 33.7548765 28.7377119 33.7548765 28.7377119 29.9776368 11.0847458 29.9776368"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_journal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3-H-Landing-Journal-Detail-Category" transform="translate(-40.000000, -60.000000)">
+            <g id="left" transform="translate(40.000000, 60.000000)">
+                <g id="data">
+                    <g id="ic_journal">
+                        <polygon id="Path" points="0 0 60 0 60 60 0 60"></polygon>
+                        <path d="M32.5,30 L50,30 L50,33.75 L32.5,33.75 L32.5,30 Z M32.5,23.75 L50,23.75 L50,27.5 L32.5,27.5 L32.5,23.75 Z M32.5,36.25 L50,36.25 L50,40 L32.5,40 L32.5,36.25 Z M52.5,10 L7.5,10 C4.75,10 2.5,12.25 2.5,15 L2.5,47.5 C2.5,50.25 4.75,52.5 7.5,52.5 L52.5,52.5 C55.25,52.5 57.5,50.25 57.5,47.5 L57.5,15 C57.5,12.25 55.25,10 52.5,10 Z M52.5,47.5 L30,47.5 L30,15 L52.5,15 L52.5,47.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

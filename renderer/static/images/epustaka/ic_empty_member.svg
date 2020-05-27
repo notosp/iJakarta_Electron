@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_empty_member</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="34-H-Own-Pustaka-Member-Setting" transform="translate(-361.000000, -256.000000)">
+            <g id="pop_up_empty_member" transform="translate(141.000000, 60.000000)">
+                <g id="ic_empty_member" transform="translate(220.000000, 196.000000)">
+                    <polygon id="Path" points="0 0 80 0 80 80 0 80"></polygon>
+                    <g id="ic_group" transform="translate(2.000000, 16.000000)" stroke="#9B9B9B" stroke-linecap="round" stroke-linejoin="round" stroke-width="5">
+                        <path d="M-6.93009119e-05,40.3771034 C-6.93009119e-05,20.9548374 15.4145325,21.0392512 15.4145325,21.0392512 L16.3704231,21.0392512 C11.2523198,21.0392512 7.10327416,16.7920788 7.10327416,11.5532217 C7.10327416,6.31436453 11.2523198,2.06719212 16.3704231,2.06719212" id="Stroke-1"></path>
+                        <path d="M75.8404231,40.3771034 C75.8404231,20.9548374 60.4258213,21.0392512 60.4258213,21.0392512 L59.4699307,21.0392512 C64.588034,21.0392512 68.7373106,16.7920788 68.7373106,11.5532217 C68.7373106,6.31436453 64.588034,2.06719212 59.4699307,2.06719212" id="Stroke-3"></path>
+                        <path d="M50.0833763,11.8394719 C50.0833763,18.3781123 44.9049812,23.6789202 38.5170541,23.6789202 C32.128665,23.6789202 26.9502699,18.3781123 26.9502699,11.8394719 C26.9502699,5.30059507 32.128665,2.36453202e-05 38.5170541,2.36453202e-05 C44.9049812,2.36453202e-05 50.0833763,5.30059507 50.0833763,11.8394719 Z" id="Stroke-5"></path>
+                        <path d="M37.3236,23.6788651 C37.3236,23.6788651 18.0849739,23.5736512 18.0849739,47.8143606" id="Stroke-7"></path>
+                        <path d="M50.8643514,28.7355901 C54.6109897,32.1930089 57.755634,38.0140138 57.755634,47.8145261" id="Stroke-9"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

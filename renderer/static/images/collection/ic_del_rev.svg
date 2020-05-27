@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_del_rev</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="31-H-Result-Typing-Review" transform="translate(-619.000000, -260.000000)">
+            <g id="pop_up_detail_reply">
+                <g id="content" transform="translate(141.000000, 60.000000)">
+                    <g id="n1-+-n1-+-n1-+-n1-+-n1-Mask">
+                        <g id="n1" transform="translate(12.000000, 190.000000)">
+                            <g id="ic_del_rev" transform="translate(466.000000, 10.000000)">
+                                <polygon id="Path" points="0 0 20 0 20 20 0 20"></polygon>
+                                <path d="M5,15.8333333 C5,16.75 5.75,17.5 6.66666667,17.5 L13.3333333,17.5 C14.25,17.5 15,16.75 15,15.8333333 L15,7.5 C15,6.58333333 14.25,5.83333333 13.3333333,5.83333333 L6.66666667,5.83333333 C5.75,5.83333333 5,6.58333333 5,7.5 L5,15.8333333 Z M15,3.33333333 L12.9166667,3.33333333 L12.325,2.74166667 C12.175,2.59166667 11.9583333,2.5 11.7416667,2.5 L8.25833333,2.5 C8.04166667,2.5 7.825,2.59166667 7.675,2.74166667 L7.08333333,3.33333333 L5,3.33333333 C4.54166667,3.33333333 4.16666667,3.70833333 4.16666667,4.16666667 C4.16666667,4.625 4.54166667,5 5,5 L15,5 C15.4583333,5 15.8333333,4.625 15.8333333,4.16666667 C15.8333333,3.70833333 15.4583333,3.33333333 15,3.33333333 Z" id="Shape" fill="#F47F22" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

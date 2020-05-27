@@ -1,0 +1,26 @@
+List API iJakarta-New
+
+1.  Login Page 
+    Users Has Moco Account => https://api-itest.aksaramaya.id/users/has_moco_account?client_id=NTEwMzg4M2IxYjdjM2M3&username=yoviefp@gmail.com
+    Login => https://api-itest.aksaramaya.id/login
+    Forgot Password => https://api-itest.aksaramaya.id/users/forgot_password
+    Register => https://api-itest.aksaramaya.id/v2/register2
+
+2.  Feeds
+    Berita/Kabar Terkini => Belum ada
+    Rekomendasi Buku => https://api-itest.aksaramaya.id/books/recommended?client_id=NTEwMzg4M2IxYjdjM2M3&access_token=&book_id=15&limit=20 (data belum ada ketika mngembil data berdasarkan rekomndasi buku category_id=0)
+    ePustaka Populer=> https://api-itest.aksaramaya.id/libraries/index?client_id=NTEwMzg4M2IxYjdjM2M3 (Kurang sorting berdasarkan data terpopuler)
+
+3.  Koleksi
+    Koleksi buku berdasarkan kategori => https://api-itest.aksaramaya.id/landing?client_id=NTEwMzg4M2IxYjdjM2M3&language=en&per_page=10 (data yg tampil baru 3 kategori)
+    Koleksi buku berdasarkan kategori - detail koleksi => https://api-itest.aksaramaya.id/books/sort/category?client_id=NTEwMzg4M2IxYjdjM2M3&category_id=2&page=1 (Sorting jika parameter bukan category buku yg ditampilkan acak, padahal yg dibutuhkan buku berdasarkan kategori yg terpilih)
+    Koleksi Jurnal => API Belum ada
+    Koleksi Berita => API Belum ada
+    Koleksi Video => API Belum ada
+    Koleksi Audio => API Belum ada
+
+4.  ePustaka (belum dibuat berdasarkan kategori)
+    ex:
+    ePustaka berdasarkan pemerintah
+    ePustaka berdasarkan tokoh
+    ePustaka berdasarkan instansi

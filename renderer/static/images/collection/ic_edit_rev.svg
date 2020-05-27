@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_edit_rev</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="31-H-Result-Typing-Review" transform="translate(-589.000000, -260.000000)">
+            <g id="pop_up_detail_reply">
+                <g id="content" transform="translate(141.000000, 60.000000)">
+                    <g id="n1-+-n1-+-n1-+-n1-+-n1-Mask">
+                        <g id="n1" transform="translate(12.000000, 190.000000)">
+                            <g id="ic_edit_rev" transform="translate(436.000000, 10.000000)">
+                                <polygon id="Path" points="0 0 20 0 20 20 0 20"></polygon>
+                                <path d="M2.5,14.55 L2.5,17.0833333 C2.5,17.3166667 2.68333333,17.5 2.91666667,17.5 L5.45,17.5 C5.55833333,17.5 5.66666667,17.4583333 5.74166667,17.375 L14.8416667,8.28333333 L11.7166667,5.15833333 L2.625,14.25 C2.54166667,14.3333333 2.5,14.4333333 2.5,14.55 Z M17.2583333,5.86666667 C17.5833333,5.54166667 17.5833333,5.01666667 17.2583333,4.69166667 L15.3083333,2.74166667 C14.9833333,2.41666667 14.4583333,2.41666667 14.1333333,2.74166667 L12.6083333,4.26666667 L15.7333333,7.39166667 L17.2583333,5.86666667 Z" id="Shape" fill="#F47F22" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

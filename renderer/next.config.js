@@ -1,0 +1,18 @@
+const withCSS = require('@zeit/next-css');
+
+module.exports = withCSS({
+  webpack: (config) => {
+    config.target = 'electron-renderer';
+
+    config.module.rules = [
+      ...(config.module.rules || []),
+      {
+        test: /\.(png|woff|woff2|eot|ttf|svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/,
+        use: "url-loader?limit=100000"
+      }
+    ];
+
+    return config;
+  },
+});
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_discuss_empty</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="51-H-Discussion-Detail-Empty" transform="translate(-361.000000, -256.000000)" fill="#9B9B9B">
+            <g id="empty" transform="translate(185.000000, 256.000000)">
+                <g id="ic_disscus_empty" transform="translate(176.000000, 0.000000)">
+                    <g id="ic_discuss_empty" transform="translate(8.000000, 4.800000)">
+                        <path d="M8.13559322,62.8636668 L55.5823729,62.8636668 L55.5823729,9.14225278 L8.13559322,9.14225278 L8.13559322,62.8636668 Z M59.6501695,70.9217782 L4.06779661,70.9217782 C1.82237288,70.9217782 0,69.1187758 0,66.8927225 L0,5.11319709 C0,2.88915835 1.82237288,1.0841414 4.06779661,1.0841414 L59.6501695,1.0841414 C61.8976271,1.0841414 63.7179661,2.88915835 63.7179661,5.11319709 L63.7179661,66.8927225 C63.7179661,69.1187758 61.8976271,70.9217782 59.6501695,70.9217782 Z" id="Fill-1"></path>
+                        <polygon id="Fill-3" points="17.7355932 24.0417007 45.980339 24.0417007 45.980339 17.9981172 17.7355932 17.9981172"></polygon>
+                        <polygon id="Fill-4" points="17.7355932 34.0297298 45.980339 34.0297298 45.980339 27.9861462 17.7355932 27.9861462"></polygon>
+                        <polygon id="Fill-5" points="17.7355932 44.0197734 45.980339 44.0197734 45.980339 37.9761898 17.7355932 37.9761898"></polygon>
+                        <polygon id="Fill-6" points="17.7355932 54.0078024 45.980339 54.0078024 45.980339 47.9642189 17.7355932 47.9642189"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

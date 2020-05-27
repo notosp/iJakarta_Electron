@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_check_active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="13-H-Filter-Book-Publisher" transform="translate(-353.000000, -326.000000)">
+            <g id="pop_up_b_filter_Publisher">
+                <g id="content" transform="translate(161.000000, 109.000000)">
+                    <g id="Queue" transform="translate(0.000000, 212.000000)">
+                        <g id="ic_check_active" transform="translate(192.000000, 5.000000)">
+                            <path d="M2,0.5 C1.17157288,0.5 0.5,1.17157288 0.5,2 L0.5,16 C0.5,16.8284271 1.17157288,17.5 2,17.5 L16,17.5 C16.8284271,17.5 17.5,16.8284271 17.5,16 L17.5,2 C17.5,1.17157288 16.8284271,0.5 16,0.5 L2,0.5 Z" id="Path" stroke="#F47F22"></path>
+                            <path d="M7.59849346,11.1144116 L5.67925913,9.19517726 C5.46244903,8.97836717 5.11112232,8.97774645 4.89354747,9.19378908 L4.89354747,9.19378908 C4.67696387,9.40884745 4.67572742,9.7587624 4.89078578,9.975346 C4.89124444,9.9758079 4.89170391,9.976269 4.89216419,9.97672928 L7.59849346,12.6830586 L13.859224,6.42232803 C14.0750436,6.2065084 14.0750436,5.85659564 13.859224,5.64077601 L13.859224,5.64077601 C13.6433745,5.42492653 13.2934388,5.42484388 13.0774874,5.64059138 L7.59849346,11.1144116 Z" id="Path" fill="#F47F22" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

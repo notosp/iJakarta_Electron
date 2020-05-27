@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_upload complete</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="75-H-Upload-Archive-In-Progess" transform="translate(-619.000000, -166.000000)">
+            <g id="pop_up_upload_progress" transform="translate(141.000000, 60.000000)">
+                <g id="item-1" transform="translate(20.000000, 94.000000)">
+                    <g id="ic_upload-complete" transform="translate(458.000000, 12.000000)">
+                        <rect id="oval" fill="#F47F22" x="0" y="0" width="22" height="22" rx="11"></rect>
+                        <g id="ic_done" transform="translate(4.400000, 4.400000)">
+                            <polygon id="Shape" points="0 0 13.2 0 13.2 13.2 0 13.2"></polygon>
+                            <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="4.8 8.95597015 2.4375 6.71492537 1.65 7.4619403 4.8 10.45 11.55 4.04701493 10.7625 3.3"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_done_read</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="38-H-Inbox-Choose-People" transform="translate(-635.000000, -192.000000)">
+            <g id="content" transform="translate(81.000000, 80.000000)">
+                <g transform="translate(0.000000, 102.000000)" id="ava">
+                    <g>
+                        <g id="read" transform="translate(554.000000, 10.000000)">
+                            <g id="ic_done_read">
+                                <g id="Shape">
+                                    <polygon points="0 0 20 0 20 20 0 20"></polygon>
+                                    <path d="M15,5.83333333 L13.825,4.65833333 L8.54166667,9.94166667 L9.71666667,11.1166667 L15,5.83333333 L15,5.83333333 Z M18.5333333,4.65833333 L9.71666667,13.475 L6.23333333,10 L5.05833333,11.175 L9.71666667,15.8333333 L19.7166667,5.83333333 L18.5333333,4.65833333 L18.5333333,4.65833333 Z M0.341666667,11.175 L5,15.8333333 L6.175,14.6583333 L1.525,10 L0.341666667,11.175 L0.341666667,11.175 Z" fill="#F58526"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_check_active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="12-H-Filter-Book-Genre" transform="translate(-611.000000, -332.000000)">
+            <g id="pop_up_a_filter_genre">
+                <g id="content" transform="translate(161.000000, 109.000000)">
+                    <g id="list" transform="translate(260.000000, 19.000000)">
+                        <g id="Group-2" transform="translate(190.000000, 0.000000)">
+                            <g id="ic_check_active" transform="translate(0.000000, 204.000000)">
+                                <path d="M2,0.5 C1.17157288,0.5 0.5,1.17157288 0.5,2 L0.5,12 C0.5,12.8284271 1.17157288,13.5 2,13.5 L12,13.5 C12.8284271,13.5 13.5,12.8284271 13.5,12 L13.5,2 C13.5,1.17157288 12.8284271,0.5 12,0.5 L2,0.5 Z" id="Path" stroke="#F47F22"></path>
+                                <path d="M5.90993936,8.64454235 L4.41720154,7.15180454 C4.24857147,6.98317446 3.97531736,6.98269168 3.80609248,7.15072484 L3.80609248,7.15072484 C3.63763856,7.31799246 3.63667688,7.59014853 3.8039445,7.75860244 C3.80430123,7.7589617 3.80465859,7.75932033 3.80501659,7.75967833 L5.90993936,9.8646011 L10.7793964,4.99514402 C10.9472561,4.82728431 10.9472561,4.55512994 10.7793964,4.38727023 L10.7793964,4.38727023 C10.6115135,4.2193873 10.3393413,4.21932302 10.1713791,4.38712663 L5.90993936,8.64454235 Z" id="Path" fill="#F47F22" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

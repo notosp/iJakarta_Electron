@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="48px" viewBox="0 0 34 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>mini_public_archive_placeholder</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 22.279541 0 30 7.8330163 30 44 0 44"></polygon>
+        <filter x="-11.7%" y="-5.7%" width="123.3%" height="115.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M22.5,0 L30,7.65217391 L30,7.65217391 C25.8578644,7.65217391 22.5,4.29430954 22.5,0.152173913 L22.5,0 Z" id="path-4"></path>
+        <filter x="-46.7%" y="-30.7%" width="193.3%" height="189.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="81-H-Share-Item" transform="translate(-19.000000, -185.000000)">
+            <g id="public_content">
+                <g id="Group" transform="translate(20.000000, 186.000000)">
+                    <g id="item-1">
+                        <g id="mini_public_archive_placeholder" transform="translate(1.000000, 0.000000)">
+                            <g id="Group-4">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Mask">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                                    <use fill="#AC0505" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                </g>
+                                <mask id="mask-5" fill="white">
+                                    <use xlink:href="#path-4"></use>
+                                </mask>
+                                <g id="Mask">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-4"></use>
+                                    <use fill="#EE3939" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                </g>
+                            </g>
+                            <g id="ic_archive_as_pdf" transform="translate(5.000000, 12.000000)">
+                                <g id="Shape">
+                                    <path d="M16.6666667,1.66666667 L6.66666667,1.66666667 C5.75,1.66666667 5,2.41666667 5,3.33333333 L5,13.3333333 C5,14.25 5.75,15 6.66666667,15 L16.6666667,15 C17.5833333,15 18.3333333,14.25 18.3333333,13.3333333 L18.3333333,3.33333333 C18.3333333,2.41666667 17.5833333,1.66666667 16.6666667,1.66666667 Z M9.58333333,7.91666667 C9.58333333,8.60833333 9.025,9.16666667 8.33333333,9.16666667 L7.5,9.16666667 L7.5,10.8333333 L6.25,10.8333333 L6.25,5.83333333 L8.33333333,5.83333333 C9.025,5.83333333 9.58333333,6.39166667 9.58333333,7.08333333 L9.58333333,7.91666667 Z M13.75,9.58333333 C13.75,10.275 13.1916667,10.8333333 12.5,10.8333333 L10.4166667,10.8333333 L10.4166667,5.83333333 L12.5,5.83333333 C13.1916667,5.83333333 13.75,6.39166667 13.75,7.08333333 L13.75,9.58333333 Z M17.0833333,7.08333333 L15.8333333,7.08333333 L15.8333333,7.91666667 L17.0833333,7.91666667 L17.0833333,9.16666667 L15.8333333,9.16666667 L15.8333333,10.8333333 L14.5833333,10.8333333 L14.5833333,5.83333333 L17.0833333,5.83333333 L17.0833333,7.08333333 Z M7.5,7.91666667 L8.33333333,7.91666667 L8.33333333,7.08333333 L7.5,7.08333333 L7.5,7.91666667 Z M3.33333333,5 L1.66666667,5 L1.66666667,16.6666667 C1.66666667,17.5833333 2.41666667,18.3333333 3.33333333,18.3333333 L15,18.3333333 L15,16.6666667 L3.33333333,16.6666667 L3.33333333,5 Z M11.6666667,9.58333333 L12.5,9.58333333 L12.5,7.08333333 L11.6666667,7.08333333 L11.6666667,9.58333333 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                    <polygon points="0 0 20 0 20 20 0 20"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
