@@ -8292,11 +8292,6 @@ react-move@^5.0.0:
     prop-types "^15.7.2"
     react-lifecycles-compat "^3.0.4"
 
-react-nl2br@^0.6.0:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/react-nl2br/-/react-nl2br-0.6.0.tgz#07c4f93bd60eba530457dab624fc76df70a5735f"
-  integrity sha512-lV9qo3ft9e6NJU3/9ZJ0yr622nWehuUBUHwV67iUtpzEhq1E0Jx/jnUwuuBRTV3iTYrjUR5z5sJfyEqGl/LvuQ==
-
 react-overlays@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/react-overlays/-/react-overlays-1.2.0.tgz#205368eeb0a5fb0b7f9b717fa7a12d518500abdb"
@@ -9824,9 +9819,9 @@ typeface-roboto@^0.0.75:
   integrity sha512-VrR/IiH00Z1tFP4vDGfwZ1esNqTiDMchBEXYY9kilT6wRGgFoCAlgkEUMHb1E3mB0FsfZhv756IF0+R+SFPfdg==
 
 ua-parser-js@^0.7.18:
-  version "0.7.20"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.20.tgz#7527178b82f6a62a0f243d1f94fd30e3e3c21098"
-  integrity sha512-8OaIKfzL5cpx8eCMAhhvTlft8GYF8b2eQr6JkCyVdrgjcytyOmPCXrqXFcUnhonRpLlh5yxEZVohm6mzaowUOw==
+  version "0.7.33"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.33.tgz#1d04acb4ccef9293df6f70f2c3d22f3030d8b532"
+  integrity sha512-s8ax/CeZdK9R/56Sui0WM6y9OFREJarMRHqLB2EwkovemBxNQ+Bqu8GAsUnVcXKgphb++ghr/B2BZx4mahujPw==
 
 unbzip2-stream@^1.0.9:
   version "1.3.3"
